@@ -1,2 +1,18 @@
-# arc--structure
-Estrutura para organização de arquivos de design de interface.
+# File structure
+
+* Client
+  * Project
+    * assets
+    * design
+      * software
+        * _archive
+    * review
+    * resources
+
+# Name structure
+
+project __feature - versions.software
+
+ex::
+
+ux-28943__checkout--v1.xd
